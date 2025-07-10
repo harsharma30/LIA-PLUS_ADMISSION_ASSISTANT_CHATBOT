@@ -61,7 +61,11 @@ This repository contains a fully functional **AI-driven conversational assistant
 
 ## 📷 Screenshots
 
-> Insert UI snapshots and chatbot demo GIFs here (optional)
+> ![Chatbot Screenshot](https://github.com/harsharma30/LIA-PLUS_ADMISSION_ASSISTANT_CHATBOT/blob/8c611bf90dd2c3bdaf9fea8b92a8208d5b980fa0/Images/Screenshot%202025-07-11%20005130.png)
+> ![Chatbot Screenshot](https://github.com/harsharma30/LIA-PLUS_ADMISSION_ASSISTANT_CHATBOT/blob/8c611bf90dd2c3bdaf9fea8b92a8208d5b980fa0/Images/Screenshot%202025-07-11%20005150.png)
+> ![Chatbot Screenshot](https://github.com/harsharma30/LIA-PLUS_ADMISSION_ASSISTANT_CHATBOT/blob/8c611bf90dd2c3bdaf9fea8b92a8208d5b980fa0/Images/Screenshot%202025-07-11%20005209.png)
+> ![Chatbot Screenshot](https://github.com/harsharma30/LIA-PLUS_ADMISSION_ASSISTANT_CHATBOT/blob/8c611bf90dd2c3bdaf9fea8b92a8208d5b980fa0/Images/Screenshot%202025-07-11%20005229.png)
+> ![Chatbot Screenshot](https://github.com/harsharma30/LIA-PLUS_ADMISSION_ASSISTANT_CHATBOT/blob/8c611bf90dd2c3bdaf9fea8b92a8208d5b980fa0/Images/Screenshot%202025-07-11%20005242.png)
 
 ---
 
