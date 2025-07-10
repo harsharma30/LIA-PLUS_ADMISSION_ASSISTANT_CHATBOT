@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nursing College Admission Assistant</title>
+  <link rel="icon" href="favicon.png" type="image/png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Splash Screen -->
+  <div id="splash">
+    <h1>Nursing College<br/>Admission Assistant</h1>
+    <button id="startBtn">Start</button>
+  </div>
+
+  <!-- Chat UI -->
+  <div id="chatbox" style="visibility:hidden;">
+    <div id="header">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Material_design_logo.svg/120px-Material_design_logo.svg.png" alt="Bot Icon" class="bot-icon">
+      <div class="bot-text">
+        <div class="bot-name">Nursing Admission Bot <span class="live-badge">Live</span></div>
+        <div class="bot-subtitle">Your guide to B.Sc Nursing admissions</div>
+      </div>
+    </div>
+
+    <div id="controls">
+      <button onclick="startNewChat()">⟳</button>
+      <button onclick="toggleDarkMode()">☾</button>
+    </div>
+    <div id="messages"></div>
+    <div id="notice" class="notice" style="display:none;">
+      Chat ended. Click <button onclick="startNewChat()">⟳</button> to start again.
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
